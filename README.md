@@ -4,7 +4,7 @@ This report is an analysis into Kickstarter campaigns, our client Louise wants t
 We have collected a diverse dataset which contains information on multiple Kickstarter campaigns across various categories and countries. This report will get into further details of our findings.
 
 ## Overview of Project
-Louis is mainly interested in campaigns that are funding plays, specifically in these two areas-
+Louis is mainly interested in campaigns that are funding the theater category, specifically in these two areas-
 * How the launch date relates to a campaigns outcome?
 * How the funding goal relates to a campaigns outcome?
 
@@ -24,4 +24,21 @@ Our dataset is very diverse and includes several categories like games, technolo
 
 ![Report Theater kaunch date](https://user-images.githubusercontent.com/93144225/140406578-4f6dbe86-8854-427f-86dd-4a5addb19f7c.png)
 
-The line chart above 
+#### Findings
+We can conclude the following things-
+* The month of May has the highest rate of successful campaigns and as such is a good month for Louise to start hers.
+* The month of December has the least number of successful campaigns and as such is better to avoid.
+* When it comes to Theater campaigns, they are more likely to succeed then to fail. As the number of failed outcomes is much lower than successful ones.
+
+### Analysis of Outcomes Based on Goals
+
+This section of the report looks at how funding goals relate to the outcome of campaigns and will help to set a realistic funding goal.
+
+First the data was organized-
+* Group the data according to funding goal ranges. For example, the number of campaigns that had a goal of $1000 to $4999 or $5000 to $9999, etc.
+* Furthermore, counting the number of **Successful, Failed and Canceled** campaigns (In their respective funding ranges).
+* Counting the total number of campaigns in their funding ranges.
+* Extracting a percentage value using the above organized data. Telling us what **percentage of campaigns were successful, failed or canceled** in their respective funding ranges.
+* Plotted a line chart to better communicate our findings
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93144225/140418716-8e485305-c143-42e6-b0d0-74ecc79d58b9.png)
