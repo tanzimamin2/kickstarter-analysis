@@ -54,4 +54,4 @@ Cleaning up the data and combing through it was a challenge, a lot of the dates 
 
 #### Limitations of the dataset
 
-One big limitation while 
+One big limitation specially while finding the “Theater outcome based on launch date”, was that all the months have different number of campaigns. Some months have a lower number of successful campaigns, this can mean that the total campaigns that month is less than other months.
