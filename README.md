@@ -55,3 +55,12 @@ Cleaning up the data and combing through it was a challenge, a lot of the dates 
 #### Limitations of the dataset
 
 One big limitation specially while finding the “Theater outcome based on launch date”, was that all the months have different number of campaigns. Some months have a lower number of successful campaigns, this can mean that the total campaigns that month is less than other months.
+
+If all the months had the same total number of campaigns, the comparision would be more accurate.
+
+### Additional Recommendations
+
+For the “theater outcome based on launch date” graph, we can make a table with percentage values. This will show us the total number of campaigns, the successful percentage, the failed percentage and the canceled percentage.
+
+We can use this data to make a **stacked column graph**. This will show us a different perspective for this dataset. 
+
