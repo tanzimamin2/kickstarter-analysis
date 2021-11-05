@@ -16,6 +16,8 @@ Lets take a closer look at the analysis and our findings.
 
 ### Analysis of Outcomes Based on Launch Date
 
+This section of the report looks at how launch dates effect campaign outcomes, this will help us to decide when to launch our campaign.
+
 Our dataset is very diverse and includes several categories like games, technology and many others. But for our report we filtered the data and narrowed it down to what is relevant to our client.
 * Only selected the theater category
 * Divided the outcomes into Successful, Failed and Canceled
