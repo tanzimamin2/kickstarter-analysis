@@ -64,3 +64,13 @@ For the “theater outcome based on launch date” graph, we can make a table wi
 
 We can use this data to make a **stacked column graph**. This will show us a different perspective for this dataset. 
 
+## Results
+
+To briefly summarize our findings-
+* _**Theater outcomes by Launch date**_
+  * The month of May can be used for launching a campaign, as it has the highest success rate.
+  * Theater campaigns have a good track record, as they have a higher success rate then failure rate.
+
+* _**Outcomes based on Goals**_
+  * According to the data, a good range for the funding goal is $1000 to $4999. As it is a good balance between the success rate and funding goal.
+
