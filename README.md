@@ -85,5 +85,5 @@ To briefly summarize our findings-
   * We can make a stacked column graph for the “theater outcome based on launch date” question.
 
 * _**Links**_
-  * Visit the following [link](https://github.com/tanzimamin2/kickstarter-analysis) for the excel worksheet and other resources.
+  * Visit this [link](https://github.com/tanzimamin2/kickstarter-analysis) for the excel worksheet and other resources.
    
