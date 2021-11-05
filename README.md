@@ -36,9 +36,9 @@ We can conclude the following things-
 
 This section of the report looks at how funding goals relate to the outcome of campaigns and will help to set a realistic funding goal.
 
-First the data was organized-
+First the data was organized in the following ways-
 * Group the data according to funding goal ranges. For example, the number of campaigns that had a goal of $1000 to $4999 or $5000 to $9999, etc.
-* Furthermore, counting the number of **Successful, Failed and Canceled** campaigns (In their respective funding ranges).
+* Furthermore, count the number of **Successful, Failed and Canceled** campaigns. Then group the counts according to their funding ranges.
 * Counting the total number of campaigns in their funding ranges.
 * Extracting a percentage value using the above organized data. Telling us what **percentage of campaigns were successful, failed or canceled** in their respective funding ranges.
 * Plotted a line chart to better communicate our findings
