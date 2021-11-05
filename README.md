@@ -52,7 +52,11 @@ We can conclude the following things-
 
 ### Challenges and Difficulties Encountered
 
-Cleaning up the data and combing through it was a challenge, a lot of the dates were in the UNIX format. Those had to be converted to a readable format, using converter. Extra columns (Years, Percentage funded, etc) had to be added to make some of the graph’s work. Color coding some of the columns made the data easier to read.
+Cleaning up the data and combing through it was a challenge, a lot of the dates were in the UNIX format. Those had to be transformed to a readable format, using a UNIX to date converter.
+
+The graphs required extra information to be extracted from the dataset. As such, new columns (Years, Percentage funded, etc) had to be made.
+
+The dataset had no visual indicators, as such color coding some of the columns made the data easier to read.
 
 #### Limitations of the dataset
 
