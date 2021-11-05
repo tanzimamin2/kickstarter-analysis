@@ -79,7 +79,7 @@ To briefly summarize our findings-
   * According to the data, a good range for the funding goal is $1000 to $4999. As it is a good balance between the success rate and funding goal.
 
 * _**Dataset Limitations**_
-  * Some of the data are not uniform, for example some months have more campaigns then others. This effects the success rate of that month compared to other months.
+  * Some of the data are not uniform, for example some months have more campaigns then others. This effects the success rate compared to other months.
   
 * _**Recommendations**_
   * We can make a stacked column graph for the “theater outcome based on launch date” question.
