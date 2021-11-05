@@ -37,9 +37,9 @@ We can conclude the following things-
 This section of the report looks at how funding goals relate to the outcome of campaigns and will help to set a realistic funding goal.
 
 First the data was organized in the following ways-
-* Group the data according to funding goal ranges. For example, the number of campaigns that had a goal of $1000 to $4999 or $5000 to $9999, etc.
+* Group the data according to funding goal ranges. For example, the number of campaigns that had a goal of $1000 to $4999, $5000 to $9999 and so on.
 * Furthermore, count the number of **Successful, Failed and Canceled** campaigns. Then group the counts according to their funding ranges.
-* Counting the total number of campaigns in their funding ranges.
+* Adding the number of campaigns in their funding ranges, giving us a to a total projects column.
 * Extracting a percentage value using the above organized data. Telling us what **percentage of campaigns were successful, failed or canceled** in their respective funding ranges.
 * Plotted a line chart to better communicate our findings
 
@@ -60,9 +60,7 @@ The dataset had no visual indicators, as such color coding some of the columns m
 
 #### Limitations of the dataset
 
-One big limitation specially while finding the “Theater outcome based on launch date”, was that all the months have different number of campaigns. Some months have a lower number of successful campaigns, this can mean that the total campaigns that month is less than other months.
-
-If all the months had the same total number of campaigns, the comparision would be more accurate.
+One limitation while finding the “Theater outcome based on launch date”, was that all the months had different number of campaigns. Some months had more campaigns then others, as such had a higher success rate then other months with lower campaign numbers. If all the months had the same total number of campaigns, the comparision would be more accurate.
 
 ### Additional Recommendations
 
